@@ -7,7 +7,7 @@ Mi nombre es Sergio Augusto Gélvez Cortés y actualmente soy estudiante de doct
 Mis cursos actuales son:
 
 * [Estructuras computacionales / Fundamentos de programación](./fundamentos.md)
-* Arquitecturas y algoritmos para computación de alto desempeño
+* [Arquitecturas y algoritmos para computación de alto desempeño](./aahpc.md)
 
 Cursos dictados anteriormente:
 
