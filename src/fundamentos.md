@@ -17,4 +17,8 @@ La lista de temas es:
 
 [Material original, con permiso de Henry Jiménez](https://sites.google.com/view/fundamentosdeprogramacin2021-i/recursos?authuser=0)
 
+## importante:
+
+[Ejercicios de practica para el primer corte](./taller1_28997.pdf)
+
 En construcción...
