@@ -181,18 +181,39 @@
 <p>La lista de temas es:</p>
 <ol>
 <li>TEORÍA INFORMÁTICA BÁSICA
-1.1. Descripción Funcional de un Sistema Computacional
-1.2 Clases de Aplicaciones de la Informática
-1.3 Evolución histórica de los sistemas computacionales
-1.4 Las Redes de Computadores
-1.5 Almacenamiento de Datos
-1.5.1 Conceptos básicos de Sistemas Numéricos
-1.6 Etapas Para Resolver Problemas Mediante El Computador</li>
+<ol>
+<li>Descripción Funcional de un Sistema Computacional</li>
+<li>Clases de Aplicaciones de la Informática</li>
+<li>Evolución histórica de los sistemas computacionales</li>
+<li>Las Redes de Computadores</li>
+<li>Almacenamiento de Datos
+<ol>
+<li>Conceptos básicos de Sistemas Numéricos</li>
+</ol>
+</li>
+<li>Etapas Para Resolver Problemas Mediante El Computador</li>
+</ol>
+</li>
 </ol>
 <p><a href="https://sites.google.com/view/fundamentosdeprogramacin2021-i/recursos?authuser=0">Material original, con permiso de Henry Jiménez</a></p>
+<h2 id="importante"><a class="header" href="#importante">importante:</a></h2>
+<ul>
+<li><a href="./Taller1_22948_Repaso_2023-2">Ejercicios de practica para el primer corte</a></li>
+</ul>
+<h2 id="guías-y-tutoriales"><a class="header" href="#guías-y-tutoriales">Guías y tutoriales</a></h2>
+<ul>
+<li><a href="https://code.visualstudio.com/docs/cpp/config-mingw">Guía para la instalación de minGW y su configuración en Visual Studio Code (Inglés)</a></li>
+<li><a href="https://dgvergel.blogspot.com/2019/08/integrando-vscode-mingw-w64-y-cmake.html">Guía para la instalación de minGW y su configuración en Visual Studio Code (Español)</a> (revisar ambas guías)</li>
+</ul>
+<h2 id="ejemplos-y-otros-materiales"><a class="header" href="#ejemplos-y-otros-materiales">Ejemplos y otros materiales:</a></h2>
+<ul>
+<li><a href="https://github.com/sergiogelvez/MaterialClases" target="_blank">Repositorios de ejercicios de clase</a></li>
+</ul>
 <p>En construcción...</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="arquitecturas-y-algoritmos-para-computación-de-alto-desempeño"><a class="header" href="#arquitecturas-y-algoritmos-para-computación-de-alto-desempeño">Arquitecturas y algoritmos para computación de alto desempeño</a></h1>
 <p><a href="./intro.html">Volver al inicio</a></p>
+<h2 id="ejercicios-de-practica-para-el-primer-corte-y-trabajo-en-clase"><a class="header" href="#ejercicios-de-practica-para-el-primer-corte-y-trabajo-en-clase">Ejercicios de practica para el primer corte y trabajo en clase.</a></h2>
+<p><a href="./taller1_29451.pdf">Trabajo en clase previo al primer corte</a></p>
 
                     </main>
 
@@ -211,6 +232,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
