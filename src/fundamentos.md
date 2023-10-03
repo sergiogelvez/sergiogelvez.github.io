@@ -19,7 +19,7 @@ La lista de temas es:
 
 ## importante:
 
-* [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2)
+* [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2.pdf)
 
 ## Guías y tutoriales
 
