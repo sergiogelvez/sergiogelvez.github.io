@@ -20,11 +20,16 @@ La lista de temas es:
 ## importante:
 
 * [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2.pdf)
+* <a href="https://github.com/sergiogelvez/MaterialClases/blob/main/Programas%20Clase%202022-%5B1%202%5D/Fundamentos/aleat_plantilla.cpp" target="_blank">Ejemplo de generación de números aleatorios para llenar un array.  Puede usarse como plantilla para ejercicios de clase</a>
+* [Taller de clase (05/10/2023)](./Taller2_2023-2.pdf)
 
 ## Guías y tutoriales
 
 * [Guía para la instalación de minGW y su configuración en Visual Studio Code (Inglés)](https://code.visualstudio.com/docs/cpp/config-mingw)
 * [Guía para la instalación de minGW y su configuración en Visual Studio Code (Español)](https://dgvergel.blogspot.com/2019/08/integrando-vscode-mingw-w64-y-cmake.html) (revisar ambas guías)
+* <a href="https://www.geeksforgeeks.org/c-programming-language/?ref=outind" target="_blank">Tutorial de C en línea (GeeksforGeeks)</a>
+* <a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=shm_outind" target="_blank">Tutorial de C++ en línea (GeeksforGeeks)</a>
+* <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">Tutorial de C++ en línea (w3schools)</a>
 
 ## Ejemplos y otros materiales:
 * <a href="https://github.com/sergiogelvez/MaterialClases" target="_blank">Repositorios de ejercicios de clase</a>
