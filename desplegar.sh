@@ -1,4 +1,4 @@
-git worktree add /tmp/book gh-pages
+git worktree add /tmp/book gh-pages -f
 mdbook build
 rm -rf /tmp/book/* # this won't delete the .git directory
 cp -rp book/* /tmp/book/
