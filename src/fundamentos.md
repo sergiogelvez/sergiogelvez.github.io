@@ -22,6 +22,7 @@ La lista de temas es:
 * [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2.pdf)
 * <a href="https://github.com/sergiogelvez/MaterialClases/blob/main/Programas%20Clase%202022-%5B1%202%5D/Fundamentos/aleat_plantilla.cpp" target="_blank">Ejemplo de generación de números aleatorios para llenar un array.  Puede usarse como plantilla para ejercicios de clase</a>
 * [Taller de clase (05/10/2023)](./Taller2_2023-2.pdf)
+* [Actividad de evaluación (18/10/2023) - Para el 26 de Octubre, media noche](./Evaluacion2_22948.pdf)
 
 ## Guías y tutoriales
 
