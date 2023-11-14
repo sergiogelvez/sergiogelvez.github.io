@@ -23,6 +23,8 @@ La lista de temas es:
 * <a href="https://github.com/sergiogelvez/MaterialClases/blob/main/Programas%20Clase%202022-%5B1%202%5D/Fundamentos/aleat_plantilla.cpp" target="_blank">Ejemplo de generación de números aleatorios para llenar un array.  Puede usarse como plantilla para ejercicios de clase</a>
 * [Taller de clase (05/10/2023)](./Taller2_2023-2.pdf)
 * [Actividad de evaluación (18/10/2023) - Para el 26 de Octubre, media noche](./Evaluacion2_22948.pdf)
+* [Taller de clase (14/11/2023)](./Taller14112023.pdf)
+* [Archivo de texto separado por comas para el taller (14/11/2023)](./listaSalarios.csv)
 
 ## Guías y tutoriales
 
