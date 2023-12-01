@@ -17,7 +17,7 @@ La lista de temas es:
 
 [Material original, con permiso de Henry Jiménez](https://sites.google.com/view/fundamentosdeprogramacin2021-i/recursos?authuser=0)
 
-## importante:
+## Importante:
 
 * [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2.pdf)
 * <a href="https://github.com/sergiogelvez/MaterialClases/blob/main/Programas%20Clase%202022-%5B1%202%5D/Fundamentos/aleat_plantilla.cpp" target="_blank">Ejemplo de generación de números aleatorios para llenar un array.  Puede usarse como plantilla para ejercicios de clase</a>
@@ -25,6 +25,7 @@ La lista de temas es:
 * [Actividad de evaluación (18/10/2023) - Para el 26 de Octubre, media noche](./Evaluacion2_22948.pdf)
 * [Taller de clase (14/11/2023)](./Taller14112023.pdf)
 * [Archivo de texto separado por comas para el taller (14/11/2023)](./listaSalarios.csv)
+* [Taller de repaso para el tercer corte](./TallerFinalRepaso.pdf) (Se agregan a los presentados en las últimas clases)
 
 ## Guías y tutoriales
 
