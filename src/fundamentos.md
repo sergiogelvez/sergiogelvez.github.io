@@ -17,6 +17,8 @@ La lista de temas es:
 
 [Material original, con permiso de Henry Jiménez](https://sites.google.com/view/fundamentosdeprogramacin2021-i/recursos?authuser=0)
 
+[Presentación: Introducción a la computación](./intro_Fund.html)
+
 ## Importante:
 
 * [Ejercicios de practica para el primer corte](./Taller1_22948_Repaso_2023-2.pdf)
