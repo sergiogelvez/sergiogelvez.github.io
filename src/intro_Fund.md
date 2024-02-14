@@ -163,6 +163,56 @@ Realizar una revisión basándose en las siguientes preguntas:
 
 ---
 
+# Historia de los computadores
+
+Hay varias formas de dividir la historia de los computadores.  Una es por los componentes hardware utilizados:
+
+| Generación          | Período       | Componente      |
+| ---                 | ---           | ---             |
+| Primera generación  | 1940s - 1950s | Tubos de vacío  |
+| Segunda generación  | 1950s - 1960s | Transistores    |
+| Tercera generación  | 1960s - 1970s | Circuitos integrados  |
+| Cuarta generación   | 1970s - Presente | Microprocesador |
+| Quinta generación   | Ahora y el futuro | Varias tendencias |
+
+---
+
+# Tubos de vacío
+
+Se utilizaban para realizar funciones de interrupción. (La electrónica digital se basa en la interrupción condicional de la corriente)
+
+![Tubos de vacío w:800 center](./valvulas.jpeg)
+
+<span style="font-size:10px">By Stefan Riepl (Quark48) - Self-photographed, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=14682022</span>
+
+---
+
+![Eniac w:700 center](./ENIAC_Penn2.jpeg)
+
+<span style="font-size:10px">https://commons.wikimedia.org/wiki/File:ENIAC_Penn2.jpg</span>
+
+---
+
+# Transistores
+
+Cumplen una función similar a los tubos de vacío, pero basándose en propiedades de los semiconductores.  Mucho menos frágiles.
+
+![Transistores w:550 center](./Transistorer.jpg)
+
+<span style="font-size:10px">https://commons.wikimedia.org/wiki/File:Transistorer_(cropped).jpg</spam>
+
+---
+
+# Circuitos Integrados
+
+Un circuito en el que todos o varios de sus elementos están asociados e interconectados de manera indivisible. No solo transistores, sino otros elementos.  Funcionalmente independientes.
+
+![Integrados w:500 center](./ChipAtoD.jpeg)
+
+<span style="font-size:10px">http://www.jedec.org/standards-documents/dictionary/terms/integrated-circuit-ic<br>https://upload.wikimedia.org/wikipedia/commons/4/4f/AD570JD.jpg</span>
+
+___
+
 # En construcción...
 
 ---
