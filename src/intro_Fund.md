@@ -213,20 +213,96 @@ Un circuito en el que todos o varios de sus elementos están asociados e interco
 
 ___
 
+<!---
+Falta incluir lo de los tipos de software y eso
+-->
+
+# Sistemas de numeración
+
+Conjunto de reglas y símbolos que permiten representar datos o cantidades numéricas.
+
+El más antiguo de todos:  El mesopotámico, con base 60. https://en.wikipedia.org/wiki/History_of_ancient_numeral_systems
+
+---
+
+# Sistemas no posicionales
+
+* Sistema romano: I, II, III, IV, V, VI, ... , X, L, C, D, M, ... : Se basa en la representación de las cantidades agregando símbolos base hasta completar la cantidad deseada, usualmente a la derecha. No tiene una base definida, sino un conjunto de símbolos "primitivos".
+* Sistema chino: Es base 10, y los incrementos de 10 y sus múltiplos se marcan con caractéres que denotan esas cantidades, como una especie de combinación lineal.
+* Diversos sistemas helénicos y helenísticos: Son bastante incómodos, ya que algunos tienen infinidad de símbolos "primitivos".
+
+---
+
+Sistema chino: https://math.libretexts.org/Courses/Hartnell_College/Mathematics_for_Elementary_Teachers/03%3A_Counting_and_Numerals/3.02%3A_Numeration_Systems
+
+Sistemas helénicos: https://www.hellenicaworld.com/Greece/Science/en/Counting.html.
+
+---
+
+# Sistemas posicionales
+
+* Los símbolos básicos o primitivos tienen valor dependiendo de la posición.  
+* Hay tantos símbolos como el valor de la base.
+
+---
+
+# Como convertir valores de una base a otra:
+
+* importantísimo antes de empezar: nuestra operaciones están concebidas para base 10, entonces base 10 se usa como punto común (por comodidad)
+* De un número en otra base a base 10: combinación lineal de las potencias de la base, empezando por 1.
+* De un número en base 10 a otra base: División sucesiva por el valor de la base, tomando los residuos
+
+---
+
+# Conceptos básicos de programación
+
+* Algebra booleana: https://www.geeksforgeeks.org/boolean-algebra/
+* Valores y variables
+* Tipos de instrucciones
+
+---
+
+# Valores y variables
+
+Un valor es una representación de un concepto, una pieza de información, podría decirse un dato. Un valor está caracterizado por un tipo de dato.
+
+Una variable es una representación de un valor general, que puede cambiar a lo largo de la ejecución de un programa. Puede guardar un valor a la vez
+
+---
+
+# Tipos de datos
+
+Un tipo de dato es una especificación de como guardar un valor en la memoria, así como de las reglas de representación del mismo.  De la misma manera, es una especificación de como crear variables en memoria.
+
+Está intrinsecamente relacionado con la forma de guardar y representar valores en la memoria principal del computador.
+
+---
+
+# Tipos de instrucciones
+
+* Asignaciones
+* Condicionales
+* Iteraciones
+* *Declaraciones*
+* *llamadas o invocaciones*
+
+---
+
+# Preguntas
+
+1. ¿Que es una expresión?
+2. ¿Que es un valor izquierdo y un valor derecho?
+3. ¿Que es un statement?
+4. ¿Cómo se almacenan los números en memoria en un programa de python? ¿En uno de C?
+
+---
+
+# Diagramas de flujo
+
+Un diagrama de flujo o diagrama de actividades es una manera de representar gráficamente un algoritmos o proceso a través de una serie de pasos estructurados o vinculados que permiten su revisión como un todo.
+
+---
+
 # En construcción...
 
 ---
-
-# Software de aplicación
-
-Permite resolver problemas o prestar servicios específicos.
-
-Ejemplos: Office, Photoshop, Navegadores
-
----
-
-
-
-
-
-
