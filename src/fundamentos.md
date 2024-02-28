@@ -4,6 +4,11 @@
 
 Curso inicial de programación.  La diferencia entre uno u otro es el enfoque y los ejemplos de aplicaciones, ya que uno es para ciencias de la computación y el otro es para ingeniería industrial y/o mecánica.
 
+## Curso 2024-1
+
+[Taller 1](./Taller1Repaso2024-1.pdf)
+
+
 La lista de temas es:
 
 1. TEORÍA INFORMÁTICA BÁSICA
