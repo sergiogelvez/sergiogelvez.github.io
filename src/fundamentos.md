@@ -8,6 +8,8 @@ Curso inicial de programación.  La diferencia entre uno u otro es el enfoque y 
 
 [Taller 1](./Taller1Repaso2024-1.pdf)
 
+[Taller 2](./TallerRepaso2-2024-1.pdf)
+
 
 La lista de temas es:
 
