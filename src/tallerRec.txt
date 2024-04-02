@@ -1,0 +1,14 @@
+Ingresar a la página https://www.aceptaelreto.com/
+
+1. Navegar siguiendo el camino: Problemas -> Por categorías -> Temática -> Números
+
+https://www.aceptaelreto.com/problems/categories.php/?cat=63
+
+Hacer los ejercicios:
+
+Números Vampiro
+¿Cuántos números reversibles?
+Conseguir un cuadrado perfecto
+El Joker de la Primitiva
+Menor número con la misma suma de dígitos
+Dígitos saltarines
