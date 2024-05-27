@@ -14,6 +14,8 @@ Curso inicial de programación.  La diferencia entre uno u otro es el enfoque y 
 
 [Datos para graficar](./SLOFEPB.xlsx)
 
+[**Taller sobre apuntadores - Fundamentos de programación**](./tallerFundamentos-2024-1.pdf)
+
 La lista de temas es:
 
 1. TEORÍA INFORMÁTICA BÁSICA
