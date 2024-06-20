@@ -52,6 +52,14 @@ La lista de temas es:
 ## Ejemplos y otros materiales:
 * <a href="https://github.com/sergiogelvez/MaterialClases" target="_blank">Repositorios de ejercicios de clase</a>
 
+## Grabaciones clases por ZOOM
+
+### Fundamentos de Programación
+* <a href="https://youtu.be/SMS8KqwfXZQ" target="_blank">Clase de 19/06/2024</a>
+
+### Estructuras Computacionales
+* <a href="https://youtu.be/w6cs0YfqSHU" target="_blank">Clase de 20/06/2024</a>
+
 
 
 En construcción...
