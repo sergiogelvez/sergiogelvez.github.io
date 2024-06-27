@@ -60,6 +60,9 @@ La lista de temas es:
 ### Estructuras Computacionales
 * <a href="https://youtu.be/w6cs0YfqSHU" target="_blank">Clase de 20/06/2024</a>
 
+### Evaluación 2
+* [Evaluación 2](./Evaluacion2-23016-B1.pdf)
+
 
 
 En construcción...
