@@ -61,7 +61,8 @@ La lista de temas es:
 * <a href="https://youtu.be/w6cs0YfqSHU" target="_blank">Clase de 20/06/2024</a>
 
 ### Evaluación 2
-* [Evaluación 2](./Evaluacion2-23016-B1.pdf)
+* [Evaluación 2 - Estructuras Computacionales](./Evaluacion2-23016-B1.pdf)
+* [Evaluación 2 - Fundamentos de Programación](./Evaluacion2-22948-PE1.pdf)
 
 
 
