@@ -1,0 +1,8 @@
+Trabajo en clase 14/11/2024
+
+Realizar los siguientes tutoriales.
+
+https://inventwithpython.com/invent4thed/chapter3.html
+https://automatetheboringstuff.com/2e/chapter5/
+https://inventwithpython.com/es/17.html
+https://inventwithpython.com/invent4thed/chapter18.html
