@@ -58,7 +58,7 @@ Intuitivamente, disciplina(s) que trata con el diseño, uso y aprovechamiento de
 
 ---
 
-![center Disciplinas de la comutación](CD.png)
+![center Disciplinas de la computación](CD.png)
 
 ---
 
@@ -160,6 +160,20 @@ Realizar una revisión basándose en las siguientes preguntas:
 
 * ¿Cuáles son los lenguajes de programación más populares en la actualidad? Además, nombre otros (al menos 15).  De entre estos, ¿cuáles se pueden considerar emergentes o nuevos?
 * ¿Cómo se pueden clasificar los lenguajes de programación?
+
+---
+
+# "Prehistoria de los computadores"
+
+Diversas ayudas mecánicas al pensamiento y a la realización de cálculos u automatización de tareas
+
+---
+
+# El telar de jacquard
+
+Máquina de Jacquard (1804, patente), unida a un telar, permite crear intrincados diseños en tela, usando tarjetas perforadas. 
+
+![Telar de Jacquard w:600 center](./Jacquard_loom.jpg)
 
 ---
 
