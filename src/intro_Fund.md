@@ -317,6 +317,22 @@ Un diagrama de flujo o diagrama de actividades es una manera de representar grá
 
 ---
 
+# Expresiones y Statements
+
+---
+
+# Asignaciones: valores izquierdos y derechos
+
+---
+
+# Tipos de datos
+
+---
+
+# Fundamentos de almacenamiento de datos en memoria
+
+---
+
 # En construcción...
 
 ---
